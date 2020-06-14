@@ -1,7 +1,17 @@
-The following is a list of orthophotos of Denmark.
+# Orthophotos of Denmark
+
+The following is a list of historical orthophotos of Denmark. They are owned by
+various owners and they are not all free to use. There is no hard inclusion
+criteria, but low resolution images (satellite) are generally out of scope,
+especially if there is a high resolution images from the same year.
+
+The coverage column is just a guestimation. "50" means "nowhere near complete
+coverage". It could be anything from 5 to 80 percent.
+
+If you have more information, please make a PR or open an issue.
 
 
-|      Year |        | Owner     | Coverage | Resolution |              | Link                                                                                  | WMS                                                        |
+|      Year |        | Owner     | Coverage | Resolution | Note         | Link                                                                                  | WMS                                                        |
 |-----------|--------|-----------|----------|------------|--------------|---------------------------------------------------------------------------------------|------------------------------------------------------------|
 |      2020 | Forår  | SDFE      |      100 |         10 | Temp         | [Kortforsyningen](https://listservices.kortforsyningen.dk/#/map/WMS/orto_foraar_temp) |                                                            |
 |      2019 | Forår  | SDFE      |      100 |         10 |              | [Kortforsyningen](https://listservices.kortforsyningen.dk/#/map/WMS/orto_foraar)      | [WMS](https://kortforsyningen.kms.dk/orto_foraar?)         |
